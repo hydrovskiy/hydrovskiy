@@ -2,7 +2,7 @@
 
 ---
 
-### :star: Кратко обо мне:
+### :man_technologist: Кратко обо мне:
 
 <p>Я начинающий программист. В 2023 году 7 августа я начал проходить курс «Сайты на лайте»‎ от сайта Старбиззз, закончил я его 11 августа! Получил практические знания использования Figma, Webflow, начал больше понимать в создании интерфейсов. На текущий момент я активно занимаюсь разработкой своего пет-проекта HydraWorld. За 2024 год хочу изучить Python, освоить HTML и CSS.</p>
 
@@ -16,4 +16,4 @@
 ### :globe_with_meridians: Мои навыки:  
 
 <div class = "icons">
-  <img src = "">
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp>
