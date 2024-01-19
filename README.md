@@ -13,7 +13,15 @@
 - :busts_in_silhouette: Найти единомышленников с которыми можно разрабатывать совместные проекты.
 - :earth_asia: Устроится на постоянную работу или выполнять заказы на фриланс-биржах.
 
+---
+
 ### :globe_with_meridians: Мои навыки:  
 
 <div class = "icons">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp
+
+  ### :computer: Языки программирования:
+  
+  <div class = "languages_icons">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp
