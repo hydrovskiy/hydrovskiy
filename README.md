@@ -11,17 +11,16 @@
 - :fire: Хочу разработать несколько open-source проектов и начать их продвигать.
 - :zap: Закончить разработку своего игрового сервера Майнкрафт!
 - :busts_in_silhouette: Найти единомышленников с которыми можно разрабатывать совместные проекты.
-- :earth_asia: Устроится на постоянную работу или выполнять заказы на фриланс-биржах.
+- Изучить основы для начала пути в сфере «Frontend-разработчик»
+- :earth_asia: Выполнять свой первый заказ на фриланс-бирже.
 
 ---
 
 ### :globe_with_meridians: Мои навыки:  
 
-<div class = "icons">
+<div class = "my-skills">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp
 
   ### :computer: Языки программирования:
   
-  <div class = "languages_icons">
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp
+  <div class = "languages">
