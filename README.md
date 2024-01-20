@@ -32,9 +32,10 @@
 <div class = "my-skills">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp
 
-  ### :computer: Языки программирования:
-  
+  ### :computer: Сейчас изучаю:
   <div class = "languages">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="30" height="30"/>&nbsp
 
   ---
 
