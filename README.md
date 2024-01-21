@@ -6,11 +6,6 @@
 
 <p>Я начинающий программист. На текущий момент я активно занимаюсь разработкой своего пет-проекта HydraWorld. За 2024 год хочу изучить Python, освоить HTML и CSS.</p>
 
-### :globe_with_meridians: Мои навыки:  
-
-<div class = "my-skills">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp
-
   ### :computer: Сейчас изучаю:
   <div class = "languages">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp
