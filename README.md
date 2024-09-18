@@ -1,5 +1,5 @@
 Hello, my name is Daniil! 👋
-I'm fullstack universal junior developer.
+I'm fullstack web developer.
 
 # Programming languages
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
